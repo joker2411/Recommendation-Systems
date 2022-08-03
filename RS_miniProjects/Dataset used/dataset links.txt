@@ -1,0 +1,5 @@
+DATASET Used-
+
+1.) achive ----------------------- https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_interactions.csv
+2.) hetrec2011-lastfm-2k --------- https://files.grouplens.org/datasets/hetrec2011/hetrec2011-lastfm-2k.zip
+3.) ml-20m ----------------------- https://files.grouplens.org/datasets/movielens/ml-20m.zip
